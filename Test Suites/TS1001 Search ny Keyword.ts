@@ -12,24 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>1e22b234-4a13-4b2d-9d1f-71bea578ded8</testSuiteGuid>
    <testCaseLink>
-      <guid>c4c78daf-38e8-42c7-a410-db6e361ce048</guid>
+      <guid>27108d53-53ca-49d2-8425-cbd9b42a305e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/T01</testCaseId>
+      <testCaseId>Test Cases/TC2001 Register Form-1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>45fba9ff-9625-443b-b8d1-201560675b58</guid>
+      <guid>72651a66-c03f-45a6-a0f7-b48ecd1d27bc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/T02</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f04f44a2-dfd1-473e-ac3e-84ea30854056</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/T03</testCaseId>
+      <testCaseId>Test Cases/TC2001 Register Form-2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
